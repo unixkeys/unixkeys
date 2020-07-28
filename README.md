@@ -1,6 +1,6 @@
 # 👋🌍
 - 🌱 &nbsp; I’m currently learning life
-- 😄 &nbsp; Pronouns: I don't really know how that works but i'm a male
+- 💜 &nbsp; Interests: Blockchain, self-control, graphs.
 - ⚡ &nbsp; Fun fact: I really like emojis
 ## 🧰 PowerTools
 - 💬 &nbsp; NodeJS
@@ -13,5 +13,11 @@
 <a href="mailto:phorcys@netc.eu"><img alt="E-Mail" src="https://img.shields.io/badge/EMail-phorcys@netc.eu-blue?style=flat-square&logo=gmail"></a>
 <a href="https://phorcys.keybase.pub/"><img alt="Website" src="https://img.shields.io/badge/Website-phorcys.keybase.pub-blue?style=flat-square&logo=firefox"></a>
 </p>
+<details>
+  <summary>Useless stats</summary><br/>
 
-###### 🧭 Find the right direction
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
+###### 🗺️ Find the right path
