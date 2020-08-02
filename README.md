@@ -17,11 +17,25 @@
   <summary>Useless stats</summary><br/>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,071 Contributions in year 2020
+ > 
+> 📦 Used 0 Bytes in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 7 Public Repository 
+ > 
+> 🔑 None Owned Private Repository 
+
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-🌆 Daytime    91 commits     ██████████░░░░░░░░░░░░░░░   40.62% 
+🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+🌆 Daytime    93 commits     ██████████░░░░░░░░░░░░░░░   41.52% 
 🌃 Evening    76 commits     ████████░░░░░░░░░░░░░░░░░   33.93% 
 🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
