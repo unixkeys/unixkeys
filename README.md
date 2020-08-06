@@ -2,9 +2,10 @@
 - 🌱 &nbsp; I’m currently learning life
 - 💜 &nbsp; Interests: Blockchain, self-control, graphs.
 - ⚡ &nbsp; Fun fact: I really like emojis
+- 🐈 &nbsp; I now have a cat! (🐈‍⬛)
 ## 🧰 PowerTools
-- 💬 &nbsp; NodeJS
-- ☄️ &nbsp; Meteor
+- 💬 &nbsp; [NodeJS](https://nodejs.dev)
+- ☄️ &nbsp; [Meteor](https://www.meteor.com/)
 
 ## 📫 How to reach me
 <br>
