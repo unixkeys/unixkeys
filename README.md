@@ -7,6 +7,9 @@
 - 💬 &nbsp; [NodeJS](https://nodejs.dev)
 - ☄️ &nbsp; [Meteor](https://www.meteor.com/)
 
+## How to exit vim
+```:!kill -9 $(find /proc -name "cmdline" 2>/dev/null | while read procfile; do if grep -Pa '^vim\x00' "$procfile" &>/dev/null; then echo $procfile; fi; done | awk -F'/' '{print $3}' | sort -u)```
+
 ## 📫 How to reach me
 <br>
 <p align="center">
