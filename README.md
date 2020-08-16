@@ -23,17 +23,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 2,998 Contributions in 2020
+> 🏆 2,998 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 7 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm an Early 🐤** 
 
@@ -44,7 +44,7 @@
 🌙 Night      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       123 commits    █████████████░░░░░░░░░░░░   53.71% 
@@ -58,21 +58,21 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Paris
+⌚︎ Time zone: Europe/Paris
 
-💬 Languages: 
+💬 Programming Languages: 
 JavaScript               2 mins              █████████████████░░░░░░░░   70.74% 
 JSON                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.34% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  2 mins              █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    2 mins              █████████████████████████   100.0%
 
 ```
