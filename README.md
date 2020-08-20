@@ -25,15 +25,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2,999 Contributions in the year 2020
+> 🏆 2,999 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public repositories
+> 📜 7 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -58,15 +58,15 @@ Sunday       29 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Paris
+⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
 JavaScript               28 mins             █████████████████████████   100.0%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
