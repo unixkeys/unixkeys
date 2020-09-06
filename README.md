@@ -21,11 +21,11 @@
   <summary>Useless stats</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 3,000 Contributions in the Year 2020
+> 🏆 3,002 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
