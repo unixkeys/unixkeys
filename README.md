@@ -64,13 +64,13 @@ Sunday       39 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
